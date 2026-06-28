@@ -1,4 +1,4 @@
-```md
+
 # Machine Learning Engineering Journey
 
 This repository documents my learning journey in Machine Learning and AI Engineering.
